@@ -6,7 +6,7 @@ documentation: https://github.com/X-SLAYER/app_version_checker
 
 environment:
   sdk: '>=3.0.1 <4.0.0'
-  flutter: ">=1.20.0"
+  flutter: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
